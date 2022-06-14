@@ -1,11 +1,11 @@
 import {
-  fenceString,
-  consoleLoggerWordsSplit,
-  consoleLoggerWordsWhile,
-  consoleLoggerWordsForOf,
-  consoleLoggerWordsFor,
-  reducerIf,
-  capitalizeString,
+    fenceString,
+    consoleLoggerWordsSplit,
+    consoleLoggerWordsWhile,
+    consoleLoggerWordsForOf,
+    consoleLoggerWordsFor,
+    reducerIf,
+    capitalizeString,
 } from './index.js';
 
 console.log(fenceString('Hi all to all and all')); // hI AlL To aLl aNd aLl
